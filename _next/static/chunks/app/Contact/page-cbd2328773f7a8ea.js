@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[276],{8069:function(n,e,i){Promise.resolve().then(i.bind(i,5309))},5309:function(n,e,i){"use strict";i.r(e);var s=i(7437);i(2265),i(1396),e.default=()=>(0,s.jsx)("main",{children:(0,s.jsx)("h1",{children:"this is contact page"})})}},function(n){n.O(0,[176,971,596,744],function(){return n(n.s=8069)}),_N_E=n.O()}]);

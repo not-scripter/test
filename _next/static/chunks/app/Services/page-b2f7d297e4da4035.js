@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[332],{8413:function(e,n,s){Promise.resolve().then(s.bind(s,4578))},4578:function(e,n,s){"use strict";s.r(n);var i=s(7437);s(2265),s(1396),n.default=()=>(0,i.jsx)("main",{children:(0,i.jsx)("h1",{children:"this is services page"})})}},function(e){e.O(0,[176,971,596,744],function(){return e(e.s=8413)}),_N_E=e.O()}]);
